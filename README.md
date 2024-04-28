@@ -9,7 +9,7 @@ myStore is an eCommerce website built using Django, a high-level Python web fram
 - **Shopping Cart**: Add and manage products in the cart for easy checkout.
 - **Order Management**: Track your orders and view order history.
 - **Search Functionality**: Quickly find products using the search bar.
-- **Payment**: Implement need merchant key and uncomment it.
+- **Payment**: Implement the functionality just need your merchant key and uncomment code.
 
 ## Installation
 
